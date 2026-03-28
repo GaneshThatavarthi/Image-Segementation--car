@@ -43,3 +43,6 @@ Here is a summary of the steps and workflow executed during this project:
 - Tested the effectiveness of the semantic segmentation algorithm locally using `test.py`.
 - Evaluated performance using key performance indices such as Pixel Accuracy and Mean IoU (Intersection over Union) metrics on random validation subsets.
 - Handled visual sanity checks with Matplotlib, showing an end-to-end grid comparison of the: 1) Original Input Image, 2) Ground True Mask and 3) Our Model's Predicted Mask.
+
+"Testing git pull"
+  
